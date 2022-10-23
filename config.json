@@ -1,10 +1,10 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "ownerNum": "6285921165857",
-  "botName": "Hitomi MD",
-  "footer": "© Hitomi MD 2022",
-  "fake": "Bot By Christian ID",
+  "ownerNumber": ["60102810046@s.whatsapp.net"],
+  "ownerName": ["lynx.man"],
+  "ownerNum": "60102810046",
+  "botName": "Aiman MD",
+  "footer": "© lynx MD 2022",
+  "fake": "Bot By Aimanlynx",
   "sessionName": "hitomi",
   "pathimg": "./media/hitomi.jpg",
   
@@ -15,13 +15,13 @@
   "lolkey": "Beli Sendiri Ygy",
   "zenzkey": "4cb6451aa6",
   
-  "ButtonTextMenu1": "Youtube Owner",
+  "ButtonTextMenu1": "Web Owner",
   "ButtonTextMenu2": "Rest Api",
   "quickReplyButton3": "List Menu 📑",
   "quickReplyButton4": "Donasi 💰",
   "quickReplyButton5": "Rate Bot ⭐",
    
-  "ButtonMenuLink1": "https://youtube.com/c/ChristianID99",
+  "ButtonMenuLink1": "http://surl.li/dijcc",
   "ButtonMenuLink2": "https://rest-api-hitomi.herokuapp.com/docs",
   "displayTextMenu3": "command",
   "displayTextMenu4": "donasi",
@@ -31,11 +31,11 @@
   "textBarisDonate1": "DANA : SCAN QRIS DIATAS",
   "textBarisDonate2": "OVO : SCAN QRIS DIATAS",
   "textBarisDonate3": "GOPAY : SCAN QRIS DIATAS",
-  "textBarisDonate4": "PULSA : 0813-2850-7885",
+  "textBarisDonate4": "PULSA : 0102810046",
   
   "randomlink": ["https://i.ibb.co/Ybbz3qm/b1511a60173f.jpg","https://i.ibb.co/gzx9tkF/e525998814c2.jpg","https://i.ibb.co/7t4ndRM/9d4d951fe9c8.jpg","https://i.ibb.co/61WQK7v/44d84e1d31fc.jpg"],
-  "welcomenya": "Intro Dulu Yuk Kak\n\n\n📛 Nama : \n🔞 Umur :\n🏙️ Askot :\n👫 Gender :\n\nSemoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada",
-  "leavenya": "Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🤙🗿",
+  "welcomenya": "Intro Dulu Yuk Kak\n\n\n📛 Nama : \n^o^ Umur :\n≧ω≦ negeri  :\n👫 Gender :\n\nSemoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada",
+  "leavenya": "Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga by aiman 🤙🗿",
   
   "gamewaktu": 60,
   "limitCount": 15,
